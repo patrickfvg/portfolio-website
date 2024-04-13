@@ -525,20 +525,20 @@ img {
     width: 85%;
 }
 
-.skills__php {
-    width: 80%;
+.skills__redirect {
+    width: 95%;
 }
 
-.skills__node {
-    width: 70%;
-}
-
-.skills__firebase {
+.skills__indexability {
     width: 90%;
 }
 
-.skills__python {
-    width: 55px;
+.skills__architecture {
+    width: 75%;
+}
+
+.skills__internal {
+    width: 85px;
 }
 
 .skills__figma {
