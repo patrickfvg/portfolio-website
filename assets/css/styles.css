@@ -522,7 +522,7 @@ img {
 }
 
 .skills__react {
-    width: 85%;
+    width: 100%;
 }
 
 .skills__php {
@@ -538,7 +538,7 @@ img {
 }
 
 .skills__python {
-    width: 100%;
+    width: 85%;
 }
 
 .skills__figma {
